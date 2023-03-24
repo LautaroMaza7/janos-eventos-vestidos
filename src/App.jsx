@@ -17,7 +17,7 @@ const App = () => {
     <BrowserRouter>
       <Navbar/>
       <Routes>
-        <Route path='/janos-eventos-vestidos' element={<Home/>}/>
+        <Route path='https://lautaromaza7.github.io/janos-eventos-vestidos/' element={<Home/>}/>
         <Route path='about' element={<About/>}/>
         <Route path='contact' element={<Contact/>}/>
         <Route path='gallery' element={<Gallery/>}/>
